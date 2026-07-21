@@ -4,46 +4,78 @@
 
 <div align="center">
   <a href="https://github.com/Tokyo-00">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=System+Architect;Full+Stack+Wizard;Code+Ninja;Future+Builder;&color=38bdf8" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Reverse+Engineering+Expert;Binary+Analysis+%26+Game+Modding;Python+Automation+%26+Scripting;SSL+Bypass+Specialist;&color=38bdf8" />
   </a>
 </div>
 
-<h3 align="center">✦ Crafting digital experiences out of pure logic ✦</h3>
+<h3 align="center">✦ Deep diving into binaries and automating the impossible ✦</h3>
 
 <br>
 
-<table align="center">
+<h2 align="center">🔥 Core Expertise</h2>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>🛸 Welcome to My Command Center</h3>
+    <td align="center" width="50%" valign="top">
+      <h3>🔬 Reverse Engineering & Binary Analysis</h3>
       <p align="left">
-        I am a tech enthusiast who loves diving deep into code, optimizing systems, and building the future. 
-        When I am not coding, I am probably thinking about how to automate my daily tasks.
+        Specializing in deep binary analysis, application modification, and network interception. I uncover how software works under the hood.
       </p>
-      <p align="left">
-        <strong>🌍 Location:</strong> Cyber Space <br>
-        <strong>🎯 Focus:</strong> Web3, AI, & Automation <br>
-        <strong>🚀 Status:</strong> Building something awesome
-      </p>
+      <ul align="left">
+        <li><strong>Game Modification & Modding</strong></li>
+        <li><strong>SSL Certificate Pinning Bypass</strong></li>
+        <li><strong>APK Decompilation & Reversing</strong></li>
+        <li><strong>Frida Instrumentation & Burp Suite</strong></li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/7o6o/7o6o/blob/main/assets/coding.gif?raw=true" width="300" />
+    <td align="center" width="50%" valign="top">
+      <h3>⚙️ Automation & Scripting</h3>
+      <p align="left">
+        Building robust, reliable, and invisible automation tools. If a task requires repetition, I write a script to do it perfectly every time.
+      </p>
+      <ul align="left">
+        <li><strong>Advanced Web Scraping & Botting</strong></li>
+        <li><strong>Python Selenium & Playwright</strong></li>
+        <li><strong>Task Scheduling & GUI Tools</strong></li>
+        <li><strong>Workflow Optimization</strong></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">⚡ Core Technologies</h2>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android_Reversing-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<br>
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<div align="center">
+  <p>Looking for Game Mods, SSL Bypass, or custom Automation Bots? Reach out to me directly:</p>
+  
+  <a href="https://t.me/sifathub">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/8801858094178">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://fb.com/sifathub">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+  </a>
 </div>
 
 <br>
@@ -52,7 +84,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tokyo-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyo-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
 </div>
 
 <br>
