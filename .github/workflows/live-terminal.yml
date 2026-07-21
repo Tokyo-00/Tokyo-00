@@ -1,0 +1,29 @@
+name: Generate Live Terminal SVG
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Script
+        run: python generate_terminal.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add dist/live_terminal.svg
+          git commit -m "Update Live Terminal SVG [skip ci]" || exit 0
+          git push
