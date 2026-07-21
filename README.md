@@ -29,6 +29,8 @@ I am a freelance Software Engineer and Security Researcher specializing in deep 
 ---
 
 
+<img src="dist/live_terminal.svg" width="100%" alt="Live Terminal">
+
 ### 🛠️ Technical Arsenal
 
 
