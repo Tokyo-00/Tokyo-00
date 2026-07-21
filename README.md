@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tokyo-00&theme=matrix&no-frame=false&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tokyo-00&theme=dark&no-frame=true&row=1&margin-w=15" alt="Trophies" />
 </div>
 
 <br>
@@ -53,14 +53,14 @@
 <h2 align="center"><code>./fetch_telemetry.sh</code></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tokyo-00&show_icons=true&theme=matrix&bg_color=0D1117&border_color=00ff00" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyo-00&layout=compact&theme=matrix&bg_color=0D1117&border_color=00ff00" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tokyo-00&show_icons=true&bg_color=0D1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyo-00&layout=compact&bg_color=0D1117&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" alt="Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tokyo-00&theme=matrix&background=0D1117&border=00ff00" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tokyo-00&background=0D1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=false" alt="Streak Stats" />
 </div>
 
 <br>
