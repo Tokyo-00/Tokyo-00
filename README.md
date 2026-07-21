@@ -1,95 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Tokyo-00&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Tokyo-00&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Tokyo-00">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Reverse+Engineering+Expert;Binary+Analysis+%26+Game+Modding;Python+Automation+%26+Scripting;SSL+Bypass+Specialist;&color=38bdf8" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=750&height=60&duration=4000&lines=Freelance+Software+Engineer;Reverse+Engineering+%26+Security+Expert;Custom+Automation+%26+Bot+Developer;Full-Stack+Web+%26+Desktop+Solutions;&color=38bdf8" />
   </a>
+  <p><b>Transforming complex problems into elegant, reliable software solutions.</b></p>
 </div>
 
-<h3 align="center">✦ Deep diving into binaries and automating the impossible ✦</h3>
-
-<br>
-
-<h2 align="center">🔥 Core Expertise</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🔬 Reverse Engineering & Binary Analysis</h3>
-      <p align="left">
-        Specializing in deep binary analysis, application modification, and network interception. I uncover how software works under the hood.
-      </p>
-      <ul align="left">
-        <li><strong>Game Modification & Modding</strong></li>
-        <li><strong>SSL Certificate Pinning Bypass</strong></li>
-        <li><strong>APK Decompilation & Reversing</strong></li>
-        <li><strong>Frida Instrumentation & Burp Suite</strong></li>
-      </ul>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚙️ Automation & Scripting</h3>
-      <p align="left">
-        Building robust, reliable, and invisible automation tools. If a task requires repetition, I write a script to do it perfectly every time.
-      </p>
-      <ul align="left">
-        <li><strong>Advanced Web Scraping & Botting</strong></li>
-        <li><strong>Python Selenium & Playwright</strong></li>
-        <li><strong>Task Scheduling & GUI Tools</strong></li>
-        <li><strong>Workflow Optimization</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
+---
 
 <div align="center">
+  <h2>🚀 What I Can Build For You</h2>
+</div>
+
+I am a versatile developer providing high-end solutions for businesses and individuals. While my deep expertise lies in reverse engineering and automation, I am fully equipped to handle end-to-end software development.
+
+### 🔬 Reverse Engineering & App Security
+> Do you need to understand how an application works under the hood or intercept restricted traffic?
+* **Game Modification & Modding:** Tailored mods and binary patches.
+* **SSL Certificate Pinning Bypass:** Intercepting and analyzing encrypted traffic using Burp Suite & Frida.
+* **APK Decompilation:** Reversing Android apps to extract logic, APIs, or assets.
+
+### ⚙️ Automation, Bots & Scraping
+> Stop doing repetitive tasks manually. I build tools that work 24/7.
+* **Custom Bot Development:** Telegram bots, Discord bots, and automated scripts.
+* **Web Scraping:** Extracting data from complex, dynamically loaded, or secured websites.
+* **Workflow Automation:** Python scripts (Selenium/Playwright) to automate browsers and desktop tasks.
+
+### 🌐 Full-Stack & Desktop Software
+> Need a complete product from scratch? 
+* **Web Applications:** Fast, responsive web apps using React, Node.js, and Python backends.
+* **Desktop Tools:** Cross-platform GUI applications using PyQt5 or CustomTkinter.
+* **API Development:** Designing secure and scalable RESTful APIs.
+
+---
+
+<div align="center">
+  <h2>🛠️ My Tech Stack & Arsenal</h2>
+  <p>I use the best tools available to ensure maximum performance and security.</p>
+
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br><br>
   <img src="https://img.shields.io/badge/Android_Reversing-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-FF0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
-
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+---
 
 <div align="center">
-  <p>Looking for Game Mods, SSL Bypass, or custom Automation Bots? Reach out to me directly:</p>
+  <h2>🤝 Hire Me / Let's Collaborate</h2>
+  <p>Ready to start your next project or need a specific problem solved? <b>Message me directly:</b></p>
   
-  <a href="https://t.me/sifathub">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/8801858094178">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://fb.com/sifathub">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
+  <a href="https://t.me/sifathub"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square" alt="Telegram" /></a>
+  <a href="https://wa.me/8801858094178"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp" /></a>
+  <a href="https://fb.com/sifathub"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square" alt="Facebook" /></a>
 </div>
 
-<br>
-
-<h2 align="center">📈 Telemetry & Stats</h2>
+---
 
 <div align="center">
+  <h2>📈 GitHub Analytics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Tokyo-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
 </div>
 
-<br>
-
-<h2 align="center">🔥 Current Activity Streak</h2>
 <div align="center">
+  <h3>🐍 Contribution Streak</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tokyo-00/Tokyo-00/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tokyo-00/Tokyo-00/output/github-contribution-grid-snake.svg">
@@ -97,8 +81,6 @@
   </picture>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" />
 </div>
